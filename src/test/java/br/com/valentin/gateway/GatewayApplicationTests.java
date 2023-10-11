@@ -1,4 +1,4 @@
-package br.com.alura.gateway;
+package br.com.valentin.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
